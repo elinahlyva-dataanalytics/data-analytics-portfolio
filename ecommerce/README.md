@@ -19,5 +19,7 @@ Untersuchung von Verkaufsdaten aus einem Online-Shop mithilfe von Google Sheets.
 📊 Das vollständige Dashboard befindet sich in der Datei:  
 [ecommerce_dashboard.xlsx](./ecommerce_dashboard.xlsx)
 
-**Autorin:**
+📍 Erstellt und ausgeführt in Google Sheets
+Autorin: Elina Hlyva, https://github.com/elinahlyva-dataanalytics
+📆 Projektzeitraum: Oktober 2025
 
