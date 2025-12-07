@@ -1,13 +1,16 @@
 **E-Commerce Dashboard Analyse**
 
+
 **📌 Ziel der Analyse:**  
 Untersuchung von Verkaufsdaten aus einem Online-Shop mithilfe von Google Sheets.
+
 
 **Tools verwendet:**  
 - Google Sheets
 - Pivot
 - Dashboard (Slicers)
 - BigQuery
+
 
 **Inhalte:**  
 - Umsatztrends und saisonale Schwankungen  
@@ -16,8 +19,10 @@ Untersuchung von Verkaufsdaten aus einem Online-Shop mithilfe von Google Sheets.
 - Zahlungsmethoden nach Ländern  
 - Empfehlungen zur Verbesserung der Performance
 
+
 📊 Das vollständige Dashboard befindet sich in der Datei:  
 [ecommerce_dashboard.xlsx](./ecommerce_dashboard.xlsx)
+
 
 📍 Erstellt und ausgeführt in Google Sheets
 🔗 Autorin: Elina Hlyva, https://github.com/elinahlyva-dataanalytics
