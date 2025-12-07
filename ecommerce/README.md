@@ -1,4 +1,4 @@
-**E-Commerce Dashboard Analyse**
+**Analyse der Verkaufsdaten im e-commerce Bereich & Dashboard Erstellung**
 
 
 **📌 Ziel der Analyse:**  
