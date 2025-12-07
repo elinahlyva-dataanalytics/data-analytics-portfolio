@@ -5,6 +5,9 @@
 Untersuchung von Verkaufsdaten aus einem Online-Shop mithilfe von Google Sheets.
 
 
+➡️ 🔹 [Zum interaktiven Google Sheets Dashboard](https://shorturl.at/n5gPA)
+
+
 **Tools verwendet:**  
 - Google Sheets
 - Pivot
