@@ -3,5 +3,7 @@ Dieses Repository präsentiert ausgewählte Projekte und Übungen aus meiner Aus
 **📁 Projekte**
 - [Titanic Analyse](./titanic/README.md) – Analyse historischer Passagierdaten mit Python und Google Colab  
 - [Filme Schauspieler Analyse](./filme/README.md) – Analyse von Filmgenres und Schauspieler-Popularität mit Python und Google Colab
+- [E-Commerce Dashboard](./ecommerce/README.md) – Analyse eines Online-Shops mit Google Sheets
+
 
 
