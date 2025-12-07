@@ -37,6 +37,6 @@ Insbesondere lassen sich folgende Tendenzen erkennen:
 - Die Top-10 Schauspieler spielen besonders häufig in Filmen der populärsten Genres mit — ein Indiz für die strategische Ausrichtung großer Produktionen.
 
 
-**Autorin**
-Elina Hlyva, https://github.com/elinahlyva-dataanalytics
+📍 Erstellt und ausgeführt in Google Colab
+Autorin: Elina Hlyva, https://github.com/elinahlyva-dataanalytics
 📆 Projektzeitraum: Dezember 2025
