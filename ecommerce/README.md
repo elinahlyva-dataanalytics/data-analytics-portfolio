@@ -20,6 +20,6 @@ Untersuchung von Verkaufsdaten aus einem Online-Shop mithilfe von Google Sheets.
 [ecommerce_dashboard.xlsx](./ecommerce_dashboard.xlsx)
 
 📍 Erstellt und ausgeführt in Google Sheets
-Autorin: Elina Hlyva, https://github.com/elinahlyva-dataanalytics
-📆 Projektzeitraum: Oktober 2025
+🔗 Autorin: Elina Hlyva, https://github.com/elinahlyva-dataanalytics
+📅 Projektzeitraum: September 2025
 
