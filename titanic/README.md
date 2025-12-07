@@ -53,6 +53,6 @@ Besondere Aufmerksamkeit wurde der Kombination von Alterskategorie, sozialem Sta
 
 
 📍 Erstellt und ausgeführt in Google Colab  
-🔗 Autorin: Elina Hlyva, https://github.com/elinahlyva  
+🔗 Autorin: Elina Hlyva, https://github.com/elinahlyva-dataanalytics  
 📅 Projektzeitraum: November 2025
 
