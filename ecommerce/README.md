@@ -1,6 +1,6 @@
 **E-Commerce Dashboard Analyse**
 
-**Ziel der Analyse:**  
+**📌 Ziel der Analyse:**  
 Untersuchung von Verkaufsdaten aus einem Online-Shop mithilfe von Google Sheets.
 
 **Tools verwendet:**  
