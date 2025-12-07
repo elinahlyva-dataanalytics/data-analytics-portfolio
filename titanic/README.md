@@ -33,11 +33,12 @@ Der verwendete Datensatz `titanic` ist bereits in der Seaborn-Bibliothek enthalt
 
 
 **📊 Ergebnisse & Erkenntnisse (Heatmap-Auswertung)**
-
-1. Alter 35–59 & 1. Klasse: höchste Sterblichkeitsrate (8 %). In der 2. Klasse überlebten anteilig die meisten Passagiere.
-2. Decks C, D, E: Höchste Sterblichkeit, insbesondere bei 14–34-jährigen auf Deck C.
-3. Alleinreisende zwischen 35–59 Jahren: größte Anzahl an Todesfällen. Keine Todesfälle bei Passagieren mit mehr als 5 Verwandten – familiäre Begleitung war ein starker Überlebensfaktor.
-4. Geschlecht: Männer in der Altersgruppe 35–59 hatten die höchste Sterblichkeit. Alle Frauen über 60 Jahre und Jungen unter 14 konnten gerettet werden.
+- In der Altersgruppe 35–59 war die Sterblichkeitsrate bei Männern besonders hoch – selbst in der 1. Klasse
+- Passagiere der 2. Klasse hatten die besten Überlebenschancen
+- Auf manchen Decks wie C oder D war die Verteilung der Todesfälle auffällig – dies könnte mit Kabinenlage oder Evakuierungswegen zusammenhängen
+- Alleinreisende Männer zwischen 35 und 59 Jahren hatten besonders geringe Überlebenschancen
+- Männer in der Altersgruppe 35–59 hatten die höchste Sterblichkeit
+- Die Mehrheit der Frauen über 60 und Kinder unter 14 überlebten, was den Fokus der Rettung auf diese Gruppen widerspiegelt
 
 
 **📁 Projektstruktur**
