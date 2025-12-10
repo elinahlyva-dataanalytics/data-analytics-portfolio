@@ -9,8 +9,8 @@ Untersuchung von Verkaufsdaten aus einem Online-Shop mithilfe von Google Sheets.
 
 
 **Tools verwendet:**  
-- Google Sheets
-- Pivot
+- Google Sheets (EDA)
+- Pivot-Tabellen
 - Dashboard (Slicers)
 - BigQuery
 
@@ -27,7 +27,7 @@ Untersuchung von Verkaufsdaten aus einem Online-Shop mithilfe von Google Sheets.
 [ecommerce_dashboard.xlsx](./ecommerce_dashboard.xlsx)
 
 
-📍 Erstellt und ausgeführt in Google Sheets
+**📍 Erstellt und ausgeführt in Google Sheets**
 🔗 Autorin: Elina Hlyva, https://github.com/elinahlyva-dataanalytics
 📅 Projektzeitraum: September 2025
 
