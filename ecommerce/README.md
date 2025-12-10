@@ -23,7 +23,9 @@ Untersuchung von Verkaufsdaten aus einem Online-Shop mithilfe von Google Sheets.
 - Empfehlungen zur Verbesserung der Performance
 
 
-**📊 Das vollständige Dashboard befindet sich in der Datei:** [ecommerce_dashboard.xlsx](./ecommerce_dashboard.xlsx)
+**📊 Interaktives Dashboard – KPIs im Überblick:**
+<img width="2013" height="1181" alt="image" src="https://github.com/user-attachments/assets/48638f94-47d7-4e89-a40d-32100364defd" />
+
 
 
 **📍 Erstellt und ausgeführt in Google Sheets**
