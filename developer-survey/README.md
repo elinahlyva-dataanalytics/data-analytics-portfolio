@@ -7,10 +7,10 @@ In diesem Projekt werden die neuesten öffentlich zugänglichen Ergebnisse der S
 Die Umfrage 2025 enthält über 49.000 Antworten aus 177 Ländern und deckt 314 Technologien sowie neue Themen wie AI-Agenten, LLMs und Community-Plattformen ab.
 
 **🔍 Analysierte Fragestellungen (Auswahl):**
-Wie viele Entwickler:innen arbeiten vollständig remote?
-In welchen Ländern verdienen Python-Entwickler:innen am meisten?
-Welche Altersgruppen nutzen Python am häufigsten?
-Welcher Bildungsweg führt zur bestbezahlten Karriere?
+- Wie viele Entwickler:innen arbeiten vollständig remote?
+- In welchen Ländern verdienen Python-Entwickler:innen am meisten?
+- Welche Altersgruppen nutzen Python am häufigsten?
+- Welcher Bildungsweg führt zur bestbezahlten Karriere?
 
 **📈 Tools & Technologien:**
 Python (Pandas, Matplotlib & Seaborn)
