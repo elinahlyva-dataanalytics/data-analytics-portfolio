@@ -23,8 +23,7 @@ Untersuchung von Verkaufsdaten aus einem Online-Shop mithilfe von Google Sheets.
 - Empfehlungen zur Verbesserung der Performance
 
 
-📊 Das vollständige Dashboard befindet sich in der Datei:  
-[ecommerce_dashboard.xlsx](./ecommerce_dashboard.xlsx)
+📊 Das vollständige Dashboard befindet sich in der Datei:[ecommerce_dashboard.xlsx](./ecommerce_dashboard.xlsx)
 
 
 **📍 Erstellt und ausgeführt in Google Sheets**
