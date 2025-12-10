@@ -24,6 +24,7 @@ Untersuchung von Verkaufsdaten aus einem Online-Shop mithilfe von Google Sheets.
 
 
 **📊 Interaktives Dashboard – KPIs im Überblick:**
+
 <img width="2013" height="1181" alt="image" src="https://github.com/user-attachments/assets/48638f94-47d7-4e89-a40d-32100364defd" />
 
 
