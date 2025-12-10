@@ -1,6 +1,6 @@
 **📊 Analyse der Stack Overflow Developer Survey 2025**
 
-**Datenquelle: survey.stackoverflow.co**
+**Datenquelle: [httpsurvey.stackoverflow.co](https://survey.stackoverflow.co/)**
 
 In diesem Projekt werden die neuesten öffentlich zugänglichen Ergebnisse der Stack Overflow Annual Developer Survey 2025 analysiert. Ziel ist es, Einblicke in die globale Entwicklerlandschaft zu gewinnen – darunter beliebte Programmiersprachen, Gehälter, Arbeitsmodelle, Bildungswege und Technologien.
 
