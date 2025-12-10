@@ -5,17 +5,20 @@
 Untersuchung von Verkaufsdaten aus einem Online-Shop mithilfe von Google Sheets.
 
 
+
 ➡️ 🔹 [Zum interaktiven Google Sheets Dashboard](https://shorturl.at/n5gPA)
 
 
-**Tools verwendet:**  
+
+  **Tools verwendet:**  
 - Google Sheets (EDA)
 - Pivot-Tabellen
 - Dashboard (Slicers)
 - BigQuery
 
 
-**Inhalte:**  
+
+  **Inhalte:**  
 - Umsatztrends und saisonale Schwankungen  
 - Rückgabequoten pro Land  
 - Beliebteste Produktkategorien  
