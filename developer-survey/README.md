@@ -13,13 +13,10 @@ Die Umfrage 2025 enthält über 49.000 Antworten aus 177 Ländern und deckt 314 
 - Welcher Bildungsweg führt zur bestbezahlten Karriere?
 
 **📈 Tools & Technologien:**
-Python (Pandas, Matplotlib & Seaborn)
-Google Colab
+Python (Pandas, Matplotlib & Seaborn), Google Colab
 
 **📍 Erstellt und ausgeführt in Google Sheets**
-
 🔗 Autorin: Elina Hlyva, https://github.com/elinahlyva-dataanalytics
-
 📅 Projektzeitraum: September 2025
 
 
