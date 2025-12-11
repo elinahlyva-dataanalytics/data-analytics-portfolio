@@ -17,7 +17,9 @@ Python (Pandas, Matplotlib & Seaborn)
 Google Colab
 
 **📍 Erstellt und ausgeführt in Google Sheets**
+
 🔗 Autorin: Elina Hlyva, https://github.com/elinahlyva-dataanalytics
+
 📅 Projektzeitraum: September 2025
 
 
