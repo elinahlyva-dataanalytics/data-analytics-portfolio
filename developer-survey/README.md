@@ -15,7 +15,7 @@ Die Umfrage 2025 enthält über 49.000 Antworten aus 177 Ländern und deckt 314 
 **📈 Tools & Technologien:**
 Python (Pandas, Matplotlib & Seaborn), Google Colab
 
-**📍 Erstellt und ausgeführt in Google Sheets**
+**📍 Erstellt und ausgeführt in Google Colab**
 🔗 Autorin: Elina Hlyva, https://github.com/elinahlyva-dataanalytics
 
 📅 Projektzeitraum: Dezember 2025
